@@ -32,3 +32,4 @@
 - [Player Wipe](https://github.com/Salvatore-Als/palworld-faq/blob/main/en/playerwipe.md)
 - [My save is reset when I restart my server](https://github.com/Salvatore-Als/palworld-faq/blob/main/en/rebootsavereinit.md)
 - [Importing a backup from Another Dedicated Server or Co-op](https://github.com/Salvatore-Als/palworld-faq/blob/main/en/saveimport.md/)
+- [Fix my server crashed since update v0.1.5.0](./en/update_v0.1.5.0.md)
